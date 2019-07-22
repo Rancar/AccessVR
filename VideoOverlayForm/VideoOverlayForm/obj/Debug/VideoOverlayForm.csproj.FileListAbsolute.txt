@@ -7,3 +7,12 @@ C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOve
 C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csproj.CoreCompileInputs.cache
 C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.exe
 C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.pdb
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Form1.resources
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Properties.Resources.resources
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csproj.GenerateResource.cache
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csproj.CoreCompileInputs.cache
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.exe
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.pdb
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Form3.resources
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.exe
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.pdb
