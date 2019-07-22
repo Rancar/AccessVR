@@ -17,3 +17,13 @@ C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\
 C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.exe
 C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.pdb
 C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csprojAssemblyReference.cache
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.exe
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.pdb
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csprojAssemblyReference.cache
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Form1.resources
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Form3.resources
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Properties.Resources.resources
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csproj.GenerateResource.cache
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csproj.CoreCompileInputs.cache
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.exe
+C:\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.pdb

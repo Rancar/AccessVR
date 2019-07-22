@@ -103,8 +103,8 @@ namespace VideoOverlayForm
                 // Set the image attribute's color mappings
                 ColorMap[] colorMap = new ColorMap[1];
                 colorMap[0] = new ColorMap();
-                colorMap[0].OldColor = Color.White;
-                colorMap[0].NewColor = Color.Blue;
+                //colorMap[0].OldColor = Color.White;
+                //colorMap[0].NewColor = Color.Blue;
                 ImageAttributes attr = new ImageAttributes();
                 attr.SetRemapTable(colorMap);
                 // Draw using the color map
@@ -138,8 +138,8 @@ namespace VideoOverlayForm
                     //get the pixel from the scrBitmap image
                     actualColor = scrBitmap.GetPixel(i, j);
                     // > 150 because.. Images edges can be of low pixel colr. if we set all pixel color to new then there will be no smoothness left.
-                    if (actualColor.R > 150)
-                        newBitmap.SetPixel(i, j, Color.FromArgb(0, actualColor.G, actualColor.B));
+                    if (actualColor.R > 230 && (actualColor.G < 240 && actualColor.B < 240))
+                        newBitmap.SetPixel(i, j, Color.FromArgb(actualColor.R / 5, actualColor.G, actualColor.B));
                     else
                         newBitmap.SetPixel(i, j, actualColor);
                 }
