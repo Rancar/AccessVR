@@ -16,3 +16,4 @@ C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\
 C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Form3.resources
 C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.exe
 C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.pdb
+C:\Users\jackhu\Documents\GitHub\AccessVR\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csprojAssemblyReference.cache

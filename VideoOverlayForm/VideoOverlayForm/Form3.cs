@@ -26,11 +26,25 @@ namespace VideoOverlayForm
         const int WS_EX_LAYERED = 0x80000;
         const int WS_EX_TRANSPARENT = 0x20;
 
+        Timer timer = new Timer();
+
         public Form3()
         {
             InitializeComponent();
             //this.Opacity = 0;
             //this.TopMost = true;
+
+            //
+            timer.Enabled = true;
+            timer.Interval = 10;  /* 300 millisec */
+            timer.Tick += new EventHandler(TimerCallback);
+        }
+
+        private void TimerCallback(object sender, EventArgs e)
+        {
+
+            this.pictureBox1.Invalidate();
+            return;
         }
 
         private void Form3_Load(object sender, EventArgs e)
@@ -102,8 +116,8 @@ namespace VideoOverlayForm
 
         private Bitmap CaptureScreen()
         {
-            // Bitmap b = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
-            Bitmap b = new Bitmap(SystemInformation.VirtualScreen.Width, SystemInformation.VirtualScreen.Height);
+            Bitmap b = new Bitmap(this.pictureBox1.Width, this.pictureBox1.Height);
+            //Bitmap b = new Bitmap(SystemInformation.VirtualScreen.Width, SystemInformation.VirtualScreen.Height);
             Graphics g = Graphics.FromImage(b);
             g.CopyFromScreen(0, 0, 0, 0, b.Size);
             g.Dispose();
