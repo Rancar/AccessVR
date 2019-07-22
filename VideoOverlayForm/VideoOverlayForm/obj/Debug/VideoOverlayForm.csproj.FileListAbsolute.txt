@@ -1,0 +1,9 @@
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.exe
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\bin\Debug\VideoOverlayForm.pdb
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csprojAssemblyReference.cache
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Form1.resources
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.Properties.Resources.resources
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csproj.GenerateResource.cache
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.csproj.CoreCompileInputs.cache
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.exe
+C:\Users\paddy\source\repos\VideoOverlayForm\VideoOverlayForm\obj\Debug\VideoOverlayForm.pdb
